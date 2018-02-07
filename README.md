@@ -1,2 +1,2 @@
 # mini-ex
-![alt  text] (vand.png "vand")
+![alt  text](vand.png)
