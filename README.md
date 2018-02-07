@@ -1,2 +1,2 @@
 # mini-ex
-![alt  text](vand.png "beskrivelse af billed")
+![alt  text](vand.jpg "beskrivelse af billed")
