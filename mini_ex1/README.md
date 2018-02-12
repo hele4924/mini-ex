@@ -1,4 +1,4 @@
-![alt  text](sp.PNG "vandland")
+![alt  text](sp.PNG "Screenshot of running program")
 
 
 Thinking about my first program
