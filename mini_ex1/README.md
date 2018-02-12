@@ -1,1 +1,1 @@
-![alt text](sp.png "screen shot of program")
+![alt  text](sp.jpg "vandland")
