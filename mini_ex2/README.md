@@ -1,1 +1,1 @@
-![alt text](mini_ex2.PNG "beskrivelse af billede") 
+![alt text](mini_ex2.PNG "blue man") 
