@@ -1,6 +1,6 @@
 ![alt text](mini_ex2.PNG "blue man program") 
 [Blue Man Program](https://rawgit.com/hele4924/mini-ex/master/mini_ex2/empty-example/index.html)
-[bmp](https://rawgit.com/hele4924/mini-ex/master/mini_ex2/empty-example/index.html)
+
 
 
 **Description of program**
