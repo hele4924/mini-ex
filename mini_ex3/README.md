@@ -1,1 +1,1 @@
-![alt text](Skærmbilled.PNG "beskrivelse af billede") 
+![alt text](Skærmbillede.PNG "beskrivelse af billede") 
