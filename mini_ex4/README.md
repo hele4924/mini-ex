@@ -1,5 +1,5 @@
 ![alt text](øre.PNG "listening ear")
-[We know what you did last night](https://rawgit.com/hele4924/mini-ex/master/mini_ex4/empty-example/index.html)
+[We heard what you did last night](https://rawgit.com/hele4924/mini-ex/master/mini_ex4/empty-example/index.html)
 
 In primary school we had these noise level devices whose interface consisted of an ear that would have little lights blinking in different colours depending on how loud the children would get. The purpose of the device was to raise awareness of tinnitus and other ear problems caused by noise. 
 Imagine if these devices had other hidden functions than just showing the level of noise. Even though, this device was very simple and only registered the sound level, the data recorded was worth something. In the end, if it could provide some knowledge that would lead to the sound level dropping and thereby have less people with tinnitus, the government would have saved some resources.  
