@@ -1,5 +1,5 @@
 
-![alt text](capture.PNG "Bullshit program") 
+![alt text](Capture.PNG "Bullshit program") 
 [bullshit](https://rawgit.com/hele4924/mini-ex/master/mini_ex6/empty-example/index.html)
 
 Rules of the program 
