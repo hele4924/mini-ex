@@ -1,3 +1,6 @@
+
+[bullshit](https://rawgit.com/hele4924/mini-ex/master/mini_ex6/empty-example/index.html)
+
 Rules of the program 
 1.	Letters size and colours are random. 
 2.	There is a 30% chance that the program will only write the first four letters 
