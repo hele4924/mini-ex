@@ -1,6 +1,6 @@
 
 ![alt text](Capture.PNG "Bullshit program") 
-[bullshit](https://rawgit.com/hele4924/mini-ex/master/mini_ex6/empty-example/index.html)
+[Bullshit Program](https://rawgit.com/hele4924/mini-ex/master/mini_ex6/empty-example/index.html)
 
 Rules of the program 
 1.	Letters size and colours are random. 
