@@ -1,1 +1,1 @@
-[trump against the women](https://rawgit.com/hele4924/mini-ex/master/mini_ex7/empty-example/index.html)
+I had problems uploading. To see the program please go to [Catrines page](https://github.com/Cathrinebp/mini_exes)
