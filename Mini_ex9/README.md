@@ -27,6 +27,11 @@ In the other idea about data capture, the technical challenge might be to get ou
 
 Individual: 
 
+![alt  text](Flowchart_mini_ex8.png "mini_ex8")
+
+![alt  text](Flowchart_mini_ex8.png "mini_ex8")
+
+
 How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
 
 The role of the flowcharts we made for out final project was of a structuring character. Since we have not yet created the program it provides us with an overview of the different phases of the program/code and clarifies the parts of this that might be technical challenging. 
