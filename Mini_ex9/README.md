@@ -2,7 +2,7 @@ The Female Body
 
 The idea of this program is a generative set of sentences that describe different kind of female bodies, but always end by declaring that the body is beautiful and feminine (or something like that). The sentences will follow a formula for how the sentences are structured to make sure they make sense. The text will be divided into verses constructed of three or four sentences. When the fourth verse has been generated the screen will clear and a new set of verses will be generated. 
 
-![alt  text](Final_project_1.PNG "Screenshot of running program")
+![alt  text](Final_project_1.png "Screenshot of running program")
 
 
 Data capture
