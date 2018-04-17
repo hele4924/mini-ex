@@ -29,7 +29,7 @@ Individual:
 
 ![alt  text](Flowchart_mini_ex8.png "mini_ex8")
 
-![alt  text](Flowchart_mini_ex8.png "mini_ex8")
+![alt  text](Flowchart_code.PNG "mini_ex8")
 
 
 How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
